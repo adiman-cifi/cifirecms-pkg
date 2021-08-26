@@ -1,0 +1,8 @@
+{
+    "name": "cifirecms/pkg",
+    "description": "CiFireCMS library packages",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
