@@ -1,6 +1,6 @@
 {
-    "name": "cifirecms/pkg",
-    "description": "CiFireCMS library packages",
+    "name": "jipajipa/pkg",
+    "description": "Library packages",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
